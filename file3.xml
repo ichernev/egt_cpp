@@ -1,0 +1,30 @@
+<catalog>
+	<item>
+		<name>TV</name>
+		<brand>Panasonic</brand>
+		<model>HPPP12</model>
+		<quantity>15</quantity>
+		<priceItem>1000</priceItem>
+	</item>
+	<item>
+		<name>laptop</name>
+		<brand>HP</brand>
+		<model>620</model>
+		<quantity>4</quantity>
+		<priceItem>549.99</priceItem>
+	</item>
+  <item>
+    <name>headphones</name>
+    <brand>Sony</brand>
+    <model>SS345</model>
+    <quantity>100</quantity>
+    <priceItem>9.99</priceItem>
+  </item>
+	<item>
+		<name>keyboard</name>
+		<brand>Lenovo</brand>
+		<model>kkSwp67y</model>
+		<quantity>84</quantity>
+		<priceItem>19.99</priceItem>
+	</item>
+</catalog>
